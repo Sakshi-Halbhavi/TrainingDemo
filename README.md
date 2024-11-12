@@ -1,2 +1,2 @@
 # TrainingDemo
-Capgemini Training V& V Selenium JAVA Training.
+Capgemini Training V& V Selenium JAVA Training. 
